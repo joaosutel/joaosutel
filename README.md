@@ -21,12 +21,11 @@ Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo a
 - 🔧 &nbsp; Git | Azure DevOps | PowerQuery | SQL Power Architect | Oracle Data Modeler
 - 🖥 &nbsp; Gimp
 
-#### Contatos 📝
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaosutel)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsutel/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joao.sutel@gmail.com)
-
 #### Status ⭐⭐⭐
 [<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
 <br>
 
+#### Contatos 📝
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaosutel)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsutel/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joao.sutel@gmail.com)
