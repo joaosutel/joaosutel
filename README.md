@@ -8,6 +8,7 @@ Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo a
 - 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, NextJS e MongoDB.
 - 🦄  &nbsp; Pretendo iniciar os estudos nos frameworks de css como Tailwind CSS, SemanticUI, e MaterializeCSS.
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
 #### Dev Stack 🛠 
 - 💻 &nbsp; JS | React | Vue  
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
@@ -22,8 +23,7 @@ Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo a
 - 🖥 &nbsp; Gimp
 
 #### Status ⭐⭐⭐
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
-<br>
+
 
 #### Contatos 📝
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaosutel)
