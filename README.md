@@ -1,30 +1,32 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Fala galera! 👋 
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me considero estudante apaixonado por JavaScript e React que adora escrever código e resolver problemas!
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+- 🔭 Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript com ReactJS + Redux e Vue.
+- 📚 Também me arrisco um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, NextJS e MongoDB.
+- 🦄 Pretendo iniciar os estudos nos frameworks de css como Tailwind CSS, SemanticUI, e MaterializeCSS.
+- 📫 Caso queiram me contactar: <br>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/joaosutel)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsutel/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joao.sutel@gmail.com)
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
 
-<p align="left">
-  <h3> 🤝🏻 Contatos: 🤝🏻 </h3>
-</p>
+#### Dev Stack 🛠 
 
-<p align="left">
-  <a href="mailto:joao.sutel@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joao.sutel@gmail.com" /></a>
+- 💻 &nbsp; JS | React | Vue  
+- 🌐 &nbsp; HTML | CSS | Bootstrap 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Visual Studio Code | Git
 
-  <a href="https://www.linkedin.com/in/jsutel/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+#### B.I. Stack 🛠 
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+- 💻 &nbsp; Qlikview | Qlik Sense | Qlikview Expressor | PowerBI | Pentaho
+- 🛢 &nbsp; MySQL | Oracle | SQLServer | RestAPI | txt | csv
+- 🔧 &nbsp; Git | Azure DevOps | PowerQuery | SQL Power Architect | Oracle Data Modeler
+- 🖥 &nbsp; Gimp
 
-</p>  
+
+
+
