@@ -27,4 +27,4 @@ Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo a
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joao.sutel@gmail.com)
 
 #### Status ⭐⭐⭐
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
+[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=joaosutel&show_icons=true"/>](https://github.com/joaosutel/)
