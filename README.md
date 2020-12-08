@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  <h3> 🤝🏻 Contatos: 🤝🏻 </h3>
 </p>
 
 <p align="left">
