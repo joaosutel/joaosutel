@@ -6,7 +6,7 @@ Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo a
 #### O que estou estudando? 👨‍🎓
 - 🔭  &nbsp; Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript com ReactJS + Redux e Vue.
 - 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, NextJS e MongoDB.
-- 🦄  &nbsp; Pretendo iniciar os estudos nos frameworks de css como Tailwind CSS, SemanticUI, e MaterializeCSS.
+- 🦄  &nbsp; Estudando SemanticUI-React e pretendo iniciar os estudos em Tailwind CSS e MaterializeCSS.
 
 #### Dev Stack 🛠 
 - 💻 &nbsp; JS | React | Vue  
