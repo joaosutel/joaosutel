@@ -4,18 +4,17 @@
 Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo apaixonado por JavaScript e React e pretendo me arriscar neste ramo! 
 
 #### O que estou estudando? 👨‍🎓
-- 🔭  &nbsp; Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript com ReactJS + Redux e Vue.
+- 🔭  &nbsp; Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript/Typescript com ReactJS + Redux e Vue.
 - 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, NextJS e MongoDB.
-- 🦄  &nbsp; Estudando SemanticUI-React e MaterialUI.
+- 🦄  &nbsp; Estudando Styled-Components.
 
 #### Dev Stack 🛠 
-- 💻 &nbsp; JS | React | Vue  
+- 💻 &nbsp; JS | TS | React | Vue  
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
 
 #### B.I. Stack 🛠 
-
 - 💻 &nbsp; Qlikview | Qlik Sense | Qlikview Expressor | PowerBI | Pentaho
 - 🛢 &nbsp; MySQL | Oracle | SQLServer | RestAPI 
 - 🔧 &nbsp; Git | Azure DevOps | PowerQuery | SQL Power Architect | Oracle Data Modeler
