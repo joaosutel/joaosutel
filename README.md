@@ -1,21 +1,22 @@
 ### Fala galera! 👋 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-Sou um Analista de Business Intelligence a mais de 9 anos e atualmente me vejo apaixonado por JavaScript e React e pretendo me arriscar neste ramo! 
+Sou um Analista de Business Intelligence com mais de 9 anos de experiencia, com conhecimento nas ferramentas lideres de mercado como: Power BI e Qlik. Tenho uma habilidade altamente analítica e um conhecimento das melhores praticas da TI.
+
+Formado em Tecnólogo em Gestão da Tecnologia da Informação pela Universidade Paulista - UNIP e especialista em Análise de Inteligência de Negócio, desenvolvo Dashboards com informações que possibilitam que as pessoas tomem a melhor decisão, na hora certa, baseado em dados deixando de lado o empirismo, evitando desperdícios de recursos e trazendo melhorias reais para a organização.
 
 #### O que estou estudando? 👨‍🎓
-- 🔭  &nbsp; Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript/Typescript com ReactJS + Redux e Vue.
-- 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, NextJS e MongoDB.
-- 🦄  &nbsp; Estudando Styled-Components.
+- 🔭  &nbsp; Atualmente estou aprendendo desenvolvimento front-end utilizando a linguagem JavaScript/Typescript com ReactJS + Redux e Styled-Component
+- 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, Java e MongoDB
 
 #### Dev Stack 🛠 
 - 💻 &nbsp; JS | TS | React | Vue  
-- 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Styled Componentes 
+- 🛢 &nbsp; Oracle | SQLServer | Postgres | MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
 
 #### B.I. Stack 🛠 
-- 💻 &nbsp; Qlikview | Qlik Sense | Qlikview Expressor | PowerBI | Pentaho
+- 💻 &nbsp; Qlikview | Qlik Sense | Qlikview Expressor | PowerBI 
 - 🛢 &nbsp; MySQL | Oracle | SQLServer | RestAPI 
 - 🔧 &nbsp; Git | Azure DevOps | PowerQuery | SQL Power Architect | Oracle Data Modeler
 - 🖥 &nbsp; Gimp
