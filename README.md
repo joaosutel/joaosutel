@@ -10,9 +10,9 @@ Formado em Tecnólogo em Gestão da Tecnologia da Informação pela Universidade
 - 📚  &nbsp; Também estou me arriscando um pouco no desenvolvimento back-end utilizando NodeJS, ExpressJS, Java e MongoDB
 
 #### Dev Stack 🛠 
-- 💻 &nbsp; JS | TS | React | Vue  
+- 💻 &nbsp; JS | TS | React | Vue | Python  
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Styled Componentes 
-- 🛢 &nbsp; Oracle | SQLServer | Postgres | MySQL | MongoDB
+- 🛢 &nbsp; Oracle | SQLServer | Postgres | MySQL | MongoDB | Redshift
 - 🔧 &nbsp; Visual Studio Code | Git
 
 #### B.I. Stack 🛠 
